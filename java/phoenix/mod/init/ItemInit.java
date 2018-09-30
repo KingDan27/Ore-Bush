@@ -3,6 +3,7 @@ package phoenix.mod.init;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import phoenix.mod.init.objects.items.ItemBase;
 

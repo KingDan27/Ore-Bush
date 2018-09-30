@@ -11,5 +11,5 @@ public class BlockInit {
 
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
-
+	public static final Block BUSH_COPPER = new BlockBase("bush_copper", Material.IRON);
 }
